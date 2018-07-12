@@ -1,0 +1,23 @@
+{
+  "name": "dbot",
+  "version": "1.0.0",
+  "description": "OS Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HKeca/osbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HKeca/osbot/issues"
+  },
+  "homepage": "https://github.com/HKeca/osbot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
